@@ -7,3 +7,4 @@ grant.rewards.brave.com
 api.rewards.brave.com
 rewards.brave.com
 p3a.brave.com
+safebrowsing.brave.com
